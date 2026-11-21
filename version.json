@@ -1,18 +1,18 @@
 {
  "formato": 1,
- "build": 2,
- "notas": "Correção de dll.",
+ "build": 3,
+ "notas": "Correção no atualizador.",
  "executavel": "Reino Elemental.exe",
  "arquivos": [
   {
    "caminho": "Atualizador.exe",
-   "tam": 12556027,
-   "sha": "619a0de5c007c00225e13aca962c0baba9fb0ac3f13b6ae586a66e9a6c40046c",
+   "tam": 12556172,
+   "sha": "507d267d2b084159170d54d561a3da8bb278445efdd958eecf897be47baa76c6",
    "partes": [
     {
      "o": 0,
-     "t": 12556027,
-     "s": "619a0de5c007c00225e13aca962c0baba9fb0ac3f13b6ae586a66e9a6c40046c"
+     "t": 12556172,
+     "s": "507d267d2b084159170d54d561a3da8bb278445efdd958eecf897be47baa76c6"
     }
    ]
   },

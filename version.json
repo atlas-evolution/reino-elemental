@@ -1,0 +1,391 @@
+{
+ "formato": 1,
+ "build": 1,
+ "notas": "teste",
+ "executavel": "Reino Elemental.exe",
+ "arquivos": [
+  {
+   "caminho": "Atualizador.exe",
+   "tam": 12556027,
+   "sha": "619a0de5c007c00225e13aca962c0baba9fb0ac3f13b6ae586a66e9a6c40046c",
+   "partes": [
+    {
+     "o": 0,
+     "t": 12556027,
+     "s": "619a0de5c007c00225e13aca962c0baba9fb0ac3f13b6ae586a66e9a6c40046c"
+    }
+   ]
+  },
+  {
+   "caminho": "bass.dll",
+   "tam": 111772,
+   "sha": "9ac13f9bc5564fd8a1eab5f7c945dce1c27940dd63a913108eac64481ddde6af",
+   "partes": [
+    {
+     "o": 0,
+     "t": 111772,
+     "s": "9ac13f9bc5564fd8a1eab5f7c945dce1c27940dd63a913108eac64481ddde6af"
+    }
+   ]
+  },
+  {
+   "caminho": "basscontroller.dll",
+   "tam": 144384,
+   "sha": "58afd68f0d5f4b46d89e21db93ac3f78098123af640a81ea2c987ee8e5cb3fcb",
+   "partes": [
+    {
+     "o": 0,
+     "t": 144384,
+     "s": "58afd68f0d5f4b46d89e21db93ac3f78098123af640a81ea2c987ee8e5cb3fcb"
+    }
+   ]
+  },
+  {
+   "caminho": "GameEngine.dll",
+   "tam": 438784,
+   "sha": "d31ac40566a2b6a70cf5c82281c044ce3d33b67bac21055a39cff188cfbd5ab5",
+   "partes": [
+    {
+     "o": 0,
+     "t": 438784,
+     "s": "d31ac40566a2b6a70cf5c82281c044ce3d33b67bac21055a39cff188cfbd5ab5"
+    }
+   ]
+  },
+  {
+   "caminho": "lang/cosowa.lang",
+   "tam": 244163,
+   "sha": "f5491792e5e2a944443efa097b0e9aacd9954ab0f28968a4a5206833580de55e",
+   "partes": [
+    {
+     "o": 0,
+     "t": 244163,
+     "s": "f5491792e5e2a944443efa097b0e9aacd9954ab0f28968a4a5206833580de55e"
+    }
+   ]
+  },
+  {
+   "caminho": "lang/english.lang",
+   "tam": 3348881,
+   "sha": "065858a95f11b9b349eabec6a7f4a71761b5c25ae5d291be566b74f5ef70614e",
+   "partes": [
+    {
+     "o": 0,
+     "t": 3348881,
+     "s": "065858a95f11b9b349eabec6a7f4a71761b5c25ae5d291be566b74f5ef70614e"
+    }
+   ]
+  },
+  {
+   "caminho": "lang/french.lang",
+   "tam": 184,
+   "sha": "adb9343c581829101c4f64f7ce1fce33519d40e6ae1ea50a9fa250eeb916f87e",
+   "partes": [
+    {
+     "o": 0,
+     "t": 184,
+     "s": "adb9343c581829101c4f64f7ce1fce33519d40e6ae1ea50a9fa250eeb916f87e"
+    }
+   ]
+  },
+  {
+   "caminho": "lang/portuguese.lang",
+   "tam": 2164212,
+   "sha": "6432a31b92e253c0dd0cd5da60b5b35bb9b7cbc71ce32bc82a71661522aaad96",
+   "partes": [
+    {
+     "o": 0,
+     "t": 2164212,
+     "s": "6432a31b92e253c0dd0cd5da60b5b35bb9b7cbc71ce32bc82a71661522aaad96"
+    }
+   ]
+  },
+  {
+   "caminho": "lang/spanish.lang",
+   "tam": 248784,
+   "sha": "6e33f311c30676a1294e67324f87db403e15808b5ed314274771cab8c1eb8c97",
+   "partes": [
+    {
+     "o": 0,
+     "t": 248784,
+     "s": "6e33f311c30676a1294e67324f87db403e15808b5ed314274771cab8c1eb8c97"
+    }
+   ]
+  },
+  {
+   "caminho": "lang/Turco.lang",
+   "tam": 13,
+   "sha": "2a88fbb5617eaa16844a7548b00ca39c3d3330f60263790e63f23c09ad7d9adb",
+   "partes": [
+    {
+     "o": 0,
+     "t": 13,
+     "s": "2a88fbb5617eaa16844a7548b00ca39c3d3330f60263790e63f23c09ad7d9adb"
+    }
+   ]
+  },
+  {
+   "caminho": "oggenc2.exe",
+   "tam": 3596288,
+   "sha": "9e77b210c4443ab2aa9410078cb1a388130ca25e4e201819d8329be4cbd8005d",
+   "partes": [
+    {
+     "o": 0,
+     "t": 3596288,
+     "s": "9e77b210c4443ab2aa9410078cb1a388130ca25e4e201819d8329be4cbd8005d"
+    }
+   ]
+  },
+  {
+   "caminho": "output/dolapi.dll",
+   "tam": 144632,
+   "sha": "981d03817c20d83acf99138e3d2b515cba1992e5bb1cfab26d45dfb7dd057c08",
+   "partes": [
+    {
+     "o": 0,
+     "t": 144632,
+     "s": "981d03817c20d83acf99138e3d2b515cba1992e5bb1cfab26d45dfb7dd057c08"
+    }
+   ]
+  },
+  {
+   "caminho": "output/jfwapi.dll",
+   "tam": 27192,
+   "sha": "93122cdc8b686040b97fc5722f2efd3df912f779077bee42f1877bdd9f21371b",
+   "partes": [
+    {
+     "o": 0,
+     "t": 27192,
+     "s": "93122cdc8b686040b97fc5722f2efd3df912f779077bee42f1877bdd9f21371b"
+    }
+   ]
+  },
+  {
+   "caminho": "output/nvdaControllerClient.dll",
+   "tam": 263832,
+   "sha": "598b7ec3dc469814f571275929f676ce73834c469fbdb359a06fd4db4e0fc866",
+   "partes": [
+    {
+     "o": 0,
+     "t": 263832,
+     "s": "598b7ec3dc469814f571275929f676ce73834c469fbdb359a06fd4db4e0fc866"
+    }
+   ]
+  },
+  {
+   "caminho": "output/SAAPI32.dll",
+   "tam": 7680,
+   "sha": "cec9defd29d22ed2eade389cd63a2635db99f6e0cc3d21616954ab7a47a45f0f",
+   "partes": [
+    {
+     "o": 0,
+     "t": 7680,
+     "s": "cec9defd29d22ed2eade389cd63a2635db99f6e0cc3d21616954ab7a47a45f0f"
+    }
+   ]
+  },
+  {
+   "caminho": "output/UniversalSpeech.dll",
+   "tam": 106496,
+   "sha": "30701652d663cfce38dd8b1d2362400219b8c8aeef1739de934bf2820d1d489b",
+   "partes": [
+    {
+     "o": 0,
+     "t": 106496,
+     "s": "30701652d663cfce38dd8b1d2362400219b8c8aeef1739de934bf2820d1d489b"
+    }
+   ]
+  },
+  {
+   "caminho": "Reino Elemental.exe",
+   "tam": 1376526,
+   "sha": "16d209bf53e9500cfaca8cfb6501a68ac4e0030e259a656f07c059d09f3bbffa",
+   "partes": [
+    {
+     "o": 0,
+     "t": 1376526,
+     "s": "16d209bf53e9500cfaca8cfb6501a68ac4e0030e259a656f07c059d09f3bbffa"
+    }
+   ]
+  },
+  {
+   "caminho": "Reparar jogo.bat",
+   "tam": 64,
+   "sha": "fe5dcb1bbd99c26e6d1a82d190b249da2d387758fe80bd94bd1d024df30c0876",
+   "partes": [
+    {
+     "o": 0,
+     "t": 64,
+     "s": "fe5dcb1bbd99c26e6d1a82d190b249da2d387758fe80bd94bd1d024df30c0876"
+    }
+   ]
+  },
+  {
+   "caminho": "sounds.dat",
+   "tam": 2088199723,
+   "sha": "6e13c3455c6244b9a8dffccaa608233330bd5a2ff792c6093c63d0a600561d39",
+   "partes": [
+    {
+     "o": 0,
+     "t": 67108864,
+     "s": "fbf94c54464b320c4fc24f4804b4e6ceaa546540b04ad4107b3357c233a7603f"
+    },
+    {
+     "o": 67108864,
+     "t": 67108864,
+     "s": "f4d1b6e365d0dec4e2d90ce1d0b311585c5468071692e8c3ec94e861a10ae5e3"
+    },
+    {
+     "o": 134217728,
+     "t": 67108864,
+     "s": "a26ec50c72ea37474ece1854a706861db13f9b2ba24e68cdecdfb2383c543870"
+    },
+    {
+     "o": 201326592,
+     "t": 67108864,
+     "s": "0dbf6619be88a2700dddeb25dd77f4515027c65c16cf351225059ecca93161b9"
+    },
+    {
+     "o": 268435456,
+     "t": 67108864,
+     "s": "d6cf2f90f26c31995cd84b2d92b89baf238da2efa38276ce1a7a1eb16df42d51"
+    },
+    {
+     "o": 335544320,
+     "t": 67108864,
+     "s": "1e319c88dc9c108b50cf537860ab5e05b9bd8ecee9caf66b6a8147a851c11b70"
+    },
+    {
+     "o": 402653184,
+     "t": 67108864,
+     "s": "132dbf897979f15cdd8d1fa18c3d51c5741019985181faab424431ac2382be76"
+    },
+    {
+     "o": 469762048,
+     "t": 67108864,
+     "s": "5d3bce06ef837c1c98b0007700c9e4c455b5ba5caf0d5d1135059ce5c7a5e0b1"
+    },
+    {
+     "o": 536870912,
+     "t": 67108864,
+     "s": "e0bf4d69dede3b76907f85f4af3247dc9b2418b022ac4e11296a785c58ceaf6a"
+    },
+    {
+     "o": 603979776,
+     "t": 67108864,
+     "s": "9b74e01dc57459e87612fe11be60bf687dbef52ee34a104a1b3cb2daa7800b49"
+    },
+    {
+     "o": 671088640,
+     "t": 67108864,
+     "s": "3db85e59df57edf2060c2589639fc1210598bf7f15476a2d7b0e162bdb7d16b7"
+    },
+    {
+     "o": 738197504,
+     "t": 67108864,
+     "s": "87ee38d45c56a7bf8fd007bc61878659140b4f9071fe2abb8ed1ef324705209b"
+    },
+    {
+     "o": 805306368,
+     "t": 67108864,
+     "s": "ca7808d3e5181ecf00e04af001e058c55f4537388c918213c429f9f2d18b6dce"
+    },
+    {
+     "o": 872415232,
+     "t": 67108864,
+     "s": "c9aabc0953aa06c3ee88422084078dd5a48d180d19d47c6ef5b0698bfcc6cf46"
+    },
+    {
+     "o": 939524096,
+     "t": 67108864,
+     "s": "a963afbe9e45b1361228ac94a597edbead450b7f2d1e384f8e8e7c459ad0522b"
+    },
+    {
+     "o": 1006632960,
+     "t": 67108864,
+     "s": "b6eafe431d46c4067f9444a6122598a80e1333ab49e0e1809b3d2b4d750f0f1b"
+    },
+    {
+     "o": 1073741824,
+     "t": 67108864,
+     "s": "2abfdd41bef6790dbb5c61658a5fb906566a27292c3cd62d275fb5843d657bb3"
+    },
+    {
+     "o": 1140850688,
+     "t": 67108864,
+     "s": "b6493e01ae196fbe003bc0009b7ce89da74d9807af34c9bb13dc546d61e99d2e"
+    },
+    {
+     "o": 1207959552,
+     "t": 67108864,
+     "s": "d6aa2d87529fce28797bb8e9eea5d4cd3e587e0ad2cc0d098f1efb5e5d41bcd0"
+    },
+    {
+     "o": 1275068416,
+     "t": 67108864,
+     "s": "acab87f75fde76f6471a823e97c88782d609b17d1723f82cd98931083a57e7ce"
+    },
+    {
+     "o": 1342177280,
+     "t": 67108864,
+     "s": "9e2941d689e77ee131a66fcd80a5bb40537b7b890f676b70847e0ad0500f4af4"
+    },
+    {
+     "o": 1409286144,
+     "t": 67108864,
+     "s": "7071263e36566d24c287844c203ac2a395a0cdb0345e35528ee1403e479d531e"
+    },
+    {
+     "o": 1476395008,
+     "t": 67108864,
+     "s": "e765048efe54617615ffc2aecdd86c8996328e614e053db5bb136df140d0f464"
+    },
+    {
+     "o": 1543503872,
+     "t": 67108864,
+     "s": "4a33794ceef557f834315d65f148d0894abde2088711293306cbb8419a4b68f9"
+    },
+    {
+     "o": 1610612736,
+     "t": 67108864,
+     "s": "12492f895b726ac8a414eaf090e100e8f573adc284130992c88cccbf8abbda1c"
+    },
+    {
+     "o": 1677721600,
+     "t": 67108864,
+     "s": "06d5735e8b4a98e440a5c666de5660f4c1c3d5cf419953dc3fc4fdbc992beec8"
+    },
+    {
+     "o": 1744830464,
+     "t": 67108864,
+     "s": "3ad52f14b2f2883ce030609e90fcf6ad55fe281b353b117b9cb81f04deaacbd8"
+    },
+    {
+     "o": 1811939328,
+     "t": 67108864,
+     "s": "3070b624b9d531c32091127362eecf4d5465a7ece36d396c2b015be376b07c85"
+    },
+    {
+     "o": 1879048192,
+     "t": 67108864,
+     "s": "ab2d6cba5a90dd484f7ffe169c11b70afd00764334b78d8b37d78c1aab6c1cec"
+    },
+    {
+     "o": 1946157056,
+     "t": 67108864,
+     "s": "dabd7ad388a9511162e6ad1ef287bd999d100602b64ba438e2f81030c81dbad0"
+    },
+    {
+     "o": 2013265920,
+     "t": 67108864,
+     "s": "1cf31cf796faf6b5a2016e0eec7974aa039c0c6cc07c1da604fe1c4e3fb84bb8"
+    },
+    {
+     "o": 2080374784,
+     "t": 7824939,
+     "s": "b2240b8fc77310aa237f3d5178cc3848d569eddf8df6b9f58d99e61130f8f87a"
+    }
+   ]
+  }
+ ]
+}

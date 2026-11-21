@@ -1,7 +1,7 @@
 {
  "formato": 1,
- "build": 1,
- "notas": "teste",
+ "build": 2,
+ "notas": "Correção de dll.",
  "executavel": "Reino Elemental.exe",
  "arquivos": [
   {
@@ -162,6 +162,18 @@
   },
   {
    "caminho": "output/nvdaControllerClient.dll",
+   "tam": 132608,
+   "sha": "a0d193883dcfbeae6e69aa00a0c5aa52a194b1a265617b8f920d0c7d4164c587",
+   "partes": [
+    {
+     "o": 0,
+     "t": 132608,
+     "s": "a0d193883dcfbeae6e69aa00a0c5aa52a194b1a265617b8f920d0c7d4164c587"
+    }
+   ]
+  },
+  {
+   "caminho": "output/nvdaControllerClient64.dll",
    "tam": 263832,
    "sha": "598b7ec3dc469814f571275929f676ce73834c469fbdb359a06fd4db4e0fc866",
    "partes": [

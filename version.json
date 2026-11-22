@@ -1,7 +1,7 @@
 {
  "formato": 1,
- "build": 5,
- "notas": "Versão.",
+ "build": 6,
+ "notas": "Remoção de sons desnecessários. Isso vai fazer o vosso cliente ser mais leve.",
  "executavel": "Reino Elemental.exe",
  "arquivos": [
   {
@@ -234,168 +234,113 @@
   },
   {
    "caminho": "sounds.dat",
-   "tam": 2088199723,
-   "sha": "6e13c3455c6244b9a8dffccaa608233330bd5a2ff792c6093c63d0a600561d39",
+   "tam": 1379576642,
+   "sha": "e50ea3b8230a7685e846cb2115abe8cbe5d6105b2bbcbc79057f96b722ba0e2c",
    "partes": [
     {
      "o": 0,
      "t": 67108864,
-     "s": "fbf94c54464b320c4fc24f4804b4e6ceaa546540b04ad4107b3357c233a7603f"
+     "s": "f0f9568f4e7daef537539730ce1eaf509156fdeaa3aaa91c2d8fdb8a09c37c56"
     },
     {
      "o": 67108864,
      "t": 67108864,
-     "s": "f4d1b6e365d0dec4e2d90ce1d0b311585c5468071692e8c3ec94e861a10ae5e3"
+     "s": "558296398844b91fb397a63439677c21b60ddb32b0ac5351f7291912a2bc125d"
     },
     {
      "o": 134217728,
      "t": 67108864,
-     "s": "a26ec50c72ea37474ece1854a706861db13f9b2ba24e68cdecdfb2383c543870"
+     "s": "6d0dac8f1dd5b36d9a2a79a4d9abcadc24a52cf060e3e159de34c3a443fb39fa"
     },
     {
      "o": 201326592,
      "t": 67108864,
-     "s": "0dbf6619be88a2700dddeb25dd77f4515027c65c16cf351225059ecca93161b9"
+     "s": "f8cea9479d6c669738bce146924cf8d71e183de321cbdc66e7a09de9a66660a1"
     },
     {
      "o": 268435456,
      "t": 67108864,
-     "s": "d6cf2f90f26c31995cd84b2d92b89baf238da2efa38276ce1a7a1eb16df42d51"
+     "s": "c7b2b9970d8d8527788586c0bec6e4f7a02c655af4a047610453172fa4943522"
     },
     {
      "o": 335544320,
      "t": 67108864,
-     "s": "1e319c88dc9c108b50cf537860ab5e05b9bd8ecee9caf66b6a8147a851c11b70"
+     "s": "2f6cac70bf857f2ec50e849cece0ac57cbd677343d88bb5e9ec8f95b9a282a60"
     },
     {
      "o": 402653184,
      "t": 67108864,
-     "s": "132dbf897979f15cdd8d1fa18c3d51c5741019985181faab424431ac2382be76"
+     "s": "4f01ea2693eb1c55b28730ed65ef8e3eb8787755098f8bd3349a8409419b7582"
     },
     {
      "o": 469762048,
      "t": 67108864,
-     "s": "5d3bce06ef837c1c98b0007700c9e4c455b5ba5caf0d5d1135059ce5c7a5e0b1"
+     "s": "376d19b750ced4a8753afb4795c60c586d3ed5d60b34257c48ccad1d5f885381"
     },
     {
      "o": 536870912,
      "t": 67108864,
-     "s": "e0bf4d69dede3b76907f85f4af3247dc9b2418b022ac4e11296a785c58ceaf6a"
+     "s": "9adc27c9c862423ca07deb0af18666f07748601047548b1cf8f8d21aacadc972"
     },
     {
      "o": 603979776,
      "t": 67108864,
-     "s": "9b74e01dc57459e87612fe11be60bf687dbef52ee34a104a1b3cb2daa7800b49"
+     "s": "1c9fcffb1eae1bc19035b89bdafb9d5aaeddef5bce5974b330c7b3bbabeb2350"
     },
     {
      "o": 671088640,
      "t": 67108864,
-     "s": "3db85e59df57edf2060c2589639fc1210598bf7f15476a2d7b0e162bdb7d16b7"
+     "s": "b36732351e9d633366b82356f64d0e685def0b0bb03a67ef525596479a54911c"
     },
     {
      "o": 738197504,
      "t": 67108864,
-     "s": "87ee38d45c56a7bf8fd007bc61878659140b4f9071fe2abb8ed1ef324705209b"
+     "s": "8f20bbc34b2632d3085b7c6f3ad411ba0e498c06310a8154d98738b363bfa7ff"
     },
     {
      "o": 805306368,
      "t": 67108864,
-     "s": "ca7808d3e5181ecf00e04af001e058c55f4537388c918213c429f9f2d18b6dce"
+     "s": "d678a4316e9f4fb04b31fcd4190eb667e7ed50ce9f06cae8a911dd38333abf30"
     },
     {
      "o": 872415232,
      "t": 67108864,
-     "s": "c9aabc0953aa06c3ee88422084078dd5a48d180d19d47c6ef5b0698bfcc6cf46"
+     "s": "53e684cdd2122257352de6cb689190a297d467f9eea11f056b455a81915a0901"
     },
     {
      "o": 939524096,
      "t": 67108864,
-     "s": "a963afbe9e45b1361228ac94a597edbead450b7f2d1e384f8e8e7c459ad0522b"
+     "s": "78b7b38be5a084fa38575eed8b8a6f49ed8a6e50f04d3c0f3cbe251023eaf542"
     },
     {
      "o": 1006632960,
      "t": 67108864,
-     "s": "b6eafe431d46c4067f9444a6122598a80e1333ab49e0e1809b3d2b4d750f0f1b"
+     "s": "41acd274280ff1a4dc51328fa08fdbcddbd80729b27440c99a8b9c94298d7b35"
     },
     {
      "o": 1073741824,
      "t": 67108864,
-     "s": "2abfdd41bef6790dbb5c61658a5fb906566a27292c3cd62d275fb5843d657bb3"
+     "s": "6cbb729b7e53620acbaf6d4e577732a4b71ccb58197eb660b051b8c426a999d5"
     },
     {
      "o": 1140850688,
      "t": 67108864,
-     "s": "b6493e01ae196fbe003bc0009b7ce89da74d9807af34c9bb13dc546d61e99d2e"
+     "s": "d811a1270558b93f2740ffb9838dffdbda6e04053c001c412a1a4c3c43c624d7"
     },
     {
      "o": 1207959552,
      "t": 67108864,
-     "s": "d6aa2d87529fce28797bb8e9eea5d4cd3e587e0ad2cc0d098f1efb5e5d41bcd0"
+     "s": "d481a1ad5d86dd9bad503940208e9d4f6aab0cdfce89e11559034b34c64284c7"
     },
     {
      "o": 1275068416,
      "t": 67108864,
-     "s": "acab87f75fde76f6471a823e97c88782d609b17d1723f82cd98931083a57e7ce"
+     "s": "045c8d7c77081063a01612e7f9efd3402aae7915a12fb10e071d43af9f9a30da"
     },
     {
      "o": 1342177280,
-     "t": 67108864,
-     "s": "9e2941d689e77ee131a66fcd80a5bb40537b7b890f676b70847e0ad0500f4af4"
-    },
-    {
-     "o": 1409286144,
-     "t": 67108864,
-     "s": "7071263e36566d24c287844c203ac2a395a0cdb0345e35528ee1403e479d531e"
-    },
-    {
-     "o": 1476395008,
-     "t": 67108864,
-     "s": "e765048efe54617615ffc2aecdd86c8996328e614e053db5bb136df140d0f464"
-    },
-    {
-     "o": 1543503872,
-     "t": 67108864,
-     "s": "4a33794ceef557f834315d65f148d0894abde2088711293306cbb8419a4b68f9"
-    },
-    {
-     "o": 1610612736,
-     "t": 67108864,
-     "s": "12492f895b726ac8a414eaf090e100e8f573adc284130992c88cccbf8abbda1c"
-    },
-    {
-     "o": 1677721600,
-     "t": 67108864,
-     "s": "06d5735e8b4a98e440a5c666de5660f4c1c3d5cf419953dc3fc4fdbc992beec8"
-    },
-    {
-     "o": 1744830464,
-     "t": 67108864,
-     "s": "3ad52f14b2f2883ce030609e90fcf6ad55fe281b353b117b9cb81f04deaacbd8"
-    },
-    {
-     "o": 1811939328,
-     "t": 67108864,
-     "s": "3070b624b9d531c32091127362eecf4d5465a7ece36d396c2b015be376b07c85"
-    },
-    {
-     "o": 1879048192,
-     "t": 67108864,
-     "s": "ab2d6cba5a90dd484f7ffe169c11b70afd00764334b78d8b37d78c1aab6c1cec"
-    },
-    {
-     "o": 1946157056,
-     "t": 67108864,
-     "s": "dabd7ad388a9511162e6ad1ef287bd999d100602b64ba438e2f81030c81dbad0"
-    },
-    {
-     "o": 2013265920,
-     "t": 67108864,
-     "s": "1cf31cf796faf6b5a2016e0eec7974aa039c0c6cc07c1da604fe1c4e3fb84bb8"
-    },
-    {
-     "o": 2080374784,
-     "t": 7824939,
-     "s": "b2240b8fc77310aa237f3d5178cc3848d569eddf8df6b9f58d99e61130f8f87a"
+     "t": 37399362,
+     "s": "3bed3ed22742f61a94eda67129f9c311beb0a7134ea0ac9d7c45dac53cfa6837"
     }
    ]
   }

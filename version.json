@@ -1,7 +1,7 @@
 {
  "formato": 1,
- "build": 6,
- "notas": "Remoção de sons desnecessários. Isso vai fazer o vosso cliente ser mais leve.",
+ "build": 7,
+ "notas": "Versão.",
  "executavel": "Reino Elemental.exe",
  "arquivos": [
   {
@@ -211,12 +211,12 @@
   {
    "caminho": "Reino Elemental.exe",
    "tam": 1376526,
-   "sha": "16d209bf53e9500cfaca8cfb6501a68ac4e0030e259a656f07c059d09f3bbffa",
+   "sha": "f81e1b273d2e5933de494dcce4c0a63d2b1057f961f10d8c60f2101d3e5db786",
    "partes": [
     {
      "o": 0,
      "t": 1376526,
-     "s": "16d209bf53e9500cfaca8cfb6501a68ac4e0030e259a656f07c059d09f3bbffa"
+     "s": "f81e1b273d2e5933de494dcce4c0a63d2b1057f961f10d8c60f2101d3e5db786"
     }
    ]
   },

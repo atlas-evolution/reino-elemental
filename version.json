@@ -1,7 +1,7 @@
 {
  "formato": 1,
- "build": 8,
- "notas": "Corrigidas algumas configurações do jogo e adicionado checar por atualizações no menu principal.",
+ "build": 9,
+ "notas": "Sistema de casas, cabanas e mansões corrigidos.",
  "executavel": "Reino Elemental.exe",
  "arquivos": [
   {
@@ -210,13 +210,13 @@
   },
   {
    "caminho": "Reino Elemental.exe",
-   "tam": 1378510,
-   "sha": "0aaa68a2c033c9ed2e995f44ad0247cdb04fe4f2c9ac2ce6389aa71ff40a7331",
+   "tam": 1378398,
+   "sha": "9fc7ded67d237132affb734544cd77e082daafbbabc181a83998446c83730b13",
    "partes": [
     {
      "o": 0,
-     "t": 1378510,
-     "s": "0aaa68a2c033c9ed2e995f44ad0247cdb04fe4f2c9ac2ce6389aa71ff40a7331"
+     "t": 1378398,
+     "s": "9fc7ded67d237132affb734544cd77e082daafbbabc181a83998446c83730b13"
     }
    ]
   },

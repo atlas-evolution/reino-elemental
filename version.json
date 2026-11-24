@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 9,
+ "build": 10,
  "notas": "Sistema de casas, cabanas e mansões corrigidos.",
  "executavel": "Reino Elemental.exe",
  "arquivos": [
@@ -234,113 +234,113 @@
   },
   {
    "caminho": "sounds.dat",
-   "tam": 1379576642,
-   "sha": "e50ea3b8230a7685e846cb2115abe8cbe5d6105b2bbcbc79057f96b722ba0e2c",
+   "tam": 1364732379,
+   "sha": "8b3a344f7d8a1ef1ffc060b34004837bfabd14eca83786f11b24cb7f7e59909b",
    "partes": [
     {
      "o": 0,
      "t": 67108864,
-     "s": "f0f9568f4e7daef537539730ce1eaf509156fdeaa3aaa91c2d8fdb8a09c37c56"
+     "s": "18b12d3eca254ac0b1f122d003f8f1a934dcb8bbc37327a505fa7dc2d156460e"
     },
     {
      "o": 67108864,
      "t": 67108864,
-     "s": "558296398844b91fb397a63439677c21b60ddb32b0ac5351f7291912a2bc125d"
+     "s": "cecb0169231c62905af20c27b4bb0a9642f828e70c35fea357a3b5e6c626e7d7"
     },
     {
      "o": 134217728,
      "t": 67108864,
-     "s": "6d0dac8f1dd5b36d9a2a79a4d9abcadc24a52cf060e3e159de34c3a443fb39fa"
+     "s": "fa865f054c57f22d04379b95cae3885538b7e29596b83539a78ee9114342f16b"
     },
     {
      "o": 201326592,
      "t": 67108864,
-     "s": "f8cea9479d6c669738bce146924cf8d71e183de321cbdc66e7a09de9a66660a1"
+     "s": "9b2eaaa8eddefaaa8f8d2ad39bb3cc1dc990de26650307c3aae43749d8f480c8"
     },
     {
      "o": 268435456,
      "t": 67108864,
-     "s": "c7b2b9970d8d8527788586c0bec6e4f7a02c655af4a047610453172fa4943522"
+     "s": "34696db997e2dd446542d1128c0103e2705afae3ef481e7d7c2e623016474f49"
     },
     {
      "o": 335544320,
      "t": 67108864,
-     "s": "2f6cac70bf857f2ec50e849cece0ac57cbd677343d88bb5e9ec8f95b9a282a60"
+     "s": "51e93e9a992be43684ddb457456c1e8fc118f2664d716bbc4c8c82be94f58acb"
     },
     {
      "o": 402653184,
      "t": 67108864,
-     "s": "4f01ea2693eb1c55b28730ed65ef8e3eb8787755098f8bd3349a8409419b7582"
+     "s": "b18c527ab35ab0163666d28ce7b3bcf829f8ba3200b58b9ef50969ec0226d58e"
     },
     {
      "o": 469762048,
      "t": 67108864,
-     "s": "376d19b750ced4a8753afb4795c60c586d3ed5d60b34257c48ccad1d5f885381"
+     "s": "352fd1c8fa6cfcb915153c6de7956182803bc8a25f53f3f9346f287d2144935a"
     },
     {
      "o": 536870912,
      "t": 67108864,
-     "s": "9adc27c9c862423ca07deb0af18666f07748601047548b1cf8f8d21aacadc972"
+     "s": "524c820030171d6d00d6d1a0106e8e9e051895037153e1bd5c287ae12a7270ba"
     },
     {
      "o": 603979776,
      "t": 67108864,
-     "s": "1c9fcffb1eae1bc19035b89bdafb9d5aaeddef5bce5974b330c7b3bbabeb2350"
+     "s": "e67a63079fb77a9b00d63ea2a6762766cd25073963a48fb5da4405c3ce108202"
     },
     {
      "o": 671088640,
      "t": 67108864,
-     "s": "b36732351e9d633366b82356f64d0e685def0b0bb03a67ef525596479a54911c"
+     "s": "496970aee1e77c368a6279d96cd3eb6a545f7e886494808405b91dc635917636"
     },
     {
      "o": 738197504,
      "t": 67108864,
-     "s": "8f20bbc34b2632d3085b7c6f3ad411ba0e498c06310a8154d98738b363bfa7ff"
+     "s": "07f3719da3218dc1ae951e9084e89bafb7d77af74eebc11dcc967b3369ec904c"
     },
     {
      "o": 805306368,
      "t": 67108864,
-     "s": "d678a4316e9f4fb04b31fcd4190eb667e7ed50ce9f06cae8a911dd38333abf30"
+     "s": "3a18208205a054d1c26bfe2f821dc42c870256c29e1c25a822e12afa84601529"
     },
     {
      "o": 872415232,
      "t": 67108864,
-     "s": "53e684cdd2122257352de6cb689190a297d467f9eea11f056b455a81915a0901"
+     "s": "317df3b2cfdb825a4333ca567ddc9b2783e154f3cd2742c986cef744a98952d7"
     },
     {
      "o": 939524096,
      "t": 67108864,
-     "s": "78b7b38be5a084fa38575eed8b8a6f49ed8a6e50f04d3c0f3cbe251023eaf542"
+     "s": "8944505f12f4e430ed9b15a557ed82562046f46589610ff36c15b7666ad901de"
     },
     {
      "o": 1006632960,
      "t": 67108864,
-     "s": "41acd274280ff1a4dc51328fa08fdbcddbd80729b27440c99a8b9c94298d7b35"
+     "s": "7f1a741aab5afc3f4e9906a4d5883794d5b8033e0f0d9ae1f34abe7e627d599e"
     },
     {
      "o": 1073741824,
      "t": 67108864,
-     "s": "6cbb729b7e53620acbaf6d4e577732a4b71ccb58197eb660b051b8c426a999d5"
+     "s": "2744dac60b94027bf345e7621aaee62b0449565b76cbaa74b3b5634381dafdb7"
     },
     {
      "o": 1140850688,
      "t": 67108864,
-     "s": "d811a1270558b93f2740ffb9838dffdbda6e04053c001c412a1a4c3c43c624d7"
+     "s": "0c6ab7f6d6bed27f7b0c9de79e251f3a861f7c7d240d830f690feebd090b0a63"
     },
     {
      "o": 1207959552,
      "t": 67108864,
-     "s": "d481a1ad5d86dd9bad503940208e9d4f6aab0cdfce89e11559034b34c64284c7"
+     "s": "4c3b5652c23cf1171e05933a4dbbdda549dafd09bb861f5bea360bdcdcc39f8c"
     },
     {
      "o": 1275068416,
      "t": 67108864,
-     "s": "045c8d7c77081063a01612e7f9efd3402aae7915a12fb10e071d43af9f9a30da"
+     "s": "e1779c2adbf54337fffc6f615a875ed41c996dbae9fd372d7e83324986e12554"
     },
     {
      "o": 1342177280,
-     "t": 37399362,
-     "s": "3bed3ed22742f61a94eda67129f9c311beb0a7134ea0ac9d7c45dac53cfa6837"
+     "t": 22555099,
+     "s": "3628b57bc480d017a8fb79708fc7109d24fd12ddbdbc7ca9ed7cabd86d2c98cd"
     }
    ]
   }
